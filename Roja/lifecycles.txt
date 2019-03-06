@@ -1,0 +1,15 @@
+*******************************LIFECYCLE HOOKS*****************************************************
+ciclo de vida de componentes
+
+
+
+
+****FASE DE MONTADO****
+
+component didMounth
+Request a la API
+
+****UPDATHING FASE****
+
+render
+componentDidUpdate (se actualiza)

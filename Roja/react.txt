@@ -1,0 +1,7 @@
+git checkout exercise-one -f
+
+https://bit.ly/devf-one
+https://bit.ly/devf-two -f
+
+
+https://bit.ly/devf-slides
